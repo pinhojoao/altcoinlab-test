@@ -1,0 +1,184 @@
+{
+    "currencies": [
+        {
+            "name": "BTC",
+            "description": "Bitcoin",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/bitcoin.png",
+            "conversion": {
+                "btc": 1,
+                "usd": 6973.18
+            },
+            "balance": 0.032
+        },
+        {
+            "name": "ETH",
+            "description": "Ethereum",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/ethereum.png",
+            "conversion": {
+                "btc": 0.002,
+                "usd": 132.19
+            },
+            "balance": 2.13
+        },
+        {
+            "name": "BUSD",
+            "description": "Binance USD",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/binanceusd.png",
+            "conversion": {
+                "btc": 3.0e-5,
+                "usd": 19
+            },
+            "balance": 190
+        },
+        {
+            "name": "BCH",
+            "description": "Bitcoin Cash",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/bitcoincash.png",
+            "conversion": {
+                "btc": 4.0e-5,
+                "usd": 112
+            },
+            "balance": 0
+        },
+        {
+            "name": "DASH",
+            "description": "Dash",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/dash.png",
+            "conversion": {
+                "btc": 0.01,
+                "usd": 737
+            },
+            "balance": 3.13
+        },
+        {
+            "name": "GUSD",
+            "description": "Gemini",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/gemini.png",
+            "conversion": {
+                "btc": 1.0e-5,
+                "usd": 12
+            },
+            "balance": 433
+        },
+        {
+            "name": "MIOTA",
+            "description": "IOTA",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/iota.png",
+            "conversion": {
+                "btc": 3.0e-5,
+                "usd": 11
+            },
+            "balance": 0
+        },
+        {
+            "name": "LTC",
+            "description": "Litecoin",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/litecoin.png",
+            "conversion": {
+                "btc": 0.22,
+                "usd": 1239
+            },
+            "balance": 322
+        },
+        {
+            "name": "XMR",
+            "description": "Monero",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/monero.png",
+            "conversion": {
+                "btc": 0.03,
+                "usd": 180
+            },
+            "balance": 0
+        },
+        {
+            "name": "NEO",
+            "description": "NEO",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/neo.png",
+            "conversion": {
+                "btc": 0.00086,
+                "usd": 3.09
+            },
+            "balance": 1200
+        },
+        {
+            "name": "PAX",
+            "description": "Paxos",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/paxos.png",
+            "conversion": {
+                "btc": 3.1e-7,
+                "usd": 0.34
+            },
+            "balance": 923
+        },
+        {
+            "name": "XRP",
+            "description": "Ripple",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/ripple.png",
+            "conversion": {
+                "btc": 0.34,
+                "usd": 932.19
+            },
+            "balance": 0
+        },
+        {
+            "name": "USDS",
+            "description": "StableUSD",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/stableusd.png",
+            "conversion": {
+                "btc": 1.2e-6,
+                "usd": 0.04
+            },
+            "balance": 0
+        },
+        {
+            "name": "XLM",
+            "description": "Stellar",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/stellar.png",
+            "conversion": {
+                "btc": 1.0e-5,
+                "usd": 1.31
+            },
+            "balance": 830
+        },
+        {
+            "name": "USDT",
+            "description": "Tether",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/tether.png",
+            "conversion": {
+                "btc": 0.089,
+                "usd": 932
+            },
+            "balance": 491.13
+        },
+        {
+            "name": "TRX",
+            "description": "Tron",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/tron.png",
+            "conversion": {
+                "btc": 7.4e-5,
+                "usd": 902
+            },
+            "balance": 0
+        },
+        {
+            "name": "TUSD",
+            "description": "TrueUSD",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/trueusd.png",
+            "conversion": {
+                "btc": 1.0e-6,
+                "usd": 1
+            },
+            "balance": 910
+        },
+        {
+            "name": "ZEC",
+            "description": "Zcash",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/zcash.png",
+            "conversion": {
+                "btc": 6.6e-7,
+                "usd": 0.21
+            },
+            "balance": 0
+        }
+    ]
+}
